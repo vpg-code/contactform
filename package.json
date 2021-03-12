@@ -2,7 +2,7 @@
   "name": "creap",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://vpg-code.github.io/contactform,
+  "homepage" : "https://vpg-code.github.io/contactform",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -17,7 +17,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-     #new
     "deploy": "gh-pages -b master -d build",
     "eject": "react-scripts eject"
   },
