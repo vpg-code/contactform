@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/contactform/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/contactform/static/js/main.0753dadf.chunk.js",
+    "main.js.map": "/contactform/static/js/main.0753dadf.chunk.js.map",
+    "runtime-main.js": "/contactform/static/js/runtime-main.1b431106.js",
+    "runtime-main.js.map": "/contactform/static/js/runtime-main.1b431106.js.map",
+    "static/js/2.f2ddb2c7.chunk.js": "/contactform/static/js/2.f2ddb2c7.chunk.js",
+    "static/js/2.f2ddb2c7.chunk.js.map": "/contactform/static/js/2.f2ddb2c7.chunk.js.map",
+    "index.html": "/contactform/index.html",
+    "precache-manifest.419eb19f58ba9737153a4d9b6df5c084.js": "/contactform/precache-manifest.419eb19f58ba9737153a4d9b6df5c084.js",
+    "service-worker.js": "/contactform/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/contactform/static/css/main.5ecd60fb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b431106.js",
+    "static/js/2.f2ddb2c7.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.0753dadf.chunk.js"
+  ]
+}
