@@ -33,7 +33,7 @@ class Contact extends Component {
           message: this.state.message
       }
       
-      axios.post('https://test.vpgrandom.repl.co/api/v1', data)
+      axios.post(process.env.API, data)
       .then( res => {
           this.setState({ sent: true }, this.resetForm())
       })
